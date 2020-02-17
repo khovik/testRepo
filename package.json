@@ -5,7 +5,10 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc --build tsconfig.json"
+    "build": "tsc --build tsconfig.json",
+    "change": "beachball change",
+    "check": "beachball check",
+    "beachball:publish": "beachball publish"
   },
   "devDependencies": {
     "beachball": "^1.18.4",
