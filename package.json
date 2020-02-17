@@ -3,8 +3,7 @@
   "license": "UNLICENSED",
   "repository": "git+https://github.com/khovik/testRepo",
   "version": "1.0.0",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "src/index.ts",
   "scripts": {
     "build": "tsc --build tsconfig.json"
   },
