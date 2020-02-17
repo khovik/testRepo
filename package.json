@@ -15,6 +15,6 @@
     "typescript": "^3.7.5"
   },
   "description": "Test repo for versions",
-  "author": "Kare Hovik <kareho@microsoft.com>",
+  "author": "Kare Hovik <kare@hovik.org>",
   "private": true
 }
