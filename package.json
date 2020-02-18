@@ -8,8 +8,8 @@
     "build": "tsc --build tsconfig.json",
     "change": "beachball change",
     "bump": "beachball bump",
-    "check": "beachball check",
-    "beachball:publish": "beachball publish"
+    "beachball:check": "beachball check --registry=https://npm.pkg.github.com",
+    "beachball:publish": "beachball publish --registry=https://npm.pkg.github.com"
   },
   "devDependencies": {
     "beachball": "^1.18.4",
