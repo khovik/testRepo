@@ -4,12 +4,13 @@
   "license": "UNLICENSED",
   "repository": "git+https://github.com/khovik/testRepo",
   "version": "1.0.1",
-  "main": "dist/index.js",
+  "main": "src/index.ts",
   "scripts": {
     "build": "tsc --build tsconfig.json",
     "change": "beachball change",
-    "check": "beachball check",
-    "beachball:publish": "beachball publish"
+    "bump": "beachball bump",
+    "beachball:check": "beachball check --registry=https://npm.pkg.github.com",
+    "beachball:publish": "beachball publish --registry=https://npm.pkg.github.com"
   },
   "devDependencies": {
     "beachball": "^1.18.4",
