@@ -2,13 +2,13 @@
   "name": "@khovik/popup",
   "license": "UNLICENSED",
   "repository": "git+https://github.com/khovik/testRepo",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc --build tsconfig.json"
   },
   "dependencies": {
-    "@khovik/textbox": "*"
+    "@khovik/textbox": "1.2.0"
   },
   "devDependencies": {
     "typescript": "^3.7.5"
