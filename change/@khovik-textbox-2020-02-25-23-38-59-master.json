@@ -1,9 +1,0 @@
-{
-  "type": "minor",
-  "comment": "Adding packeges changes",
-  "packageName": "@khovik/textbox",
-  "email": "kareho@microsoft.com",
-  "commit": "8e56bd5b702f19ba281b67e6a41ced56b360bec5",
-  "dependentChangeType": "patch",
-  "date": "2020-02-25T22:38:58.754Z"
-}
