@@ -12,7 +12,5 @@
   },
   "description": "Test repo for versions - textbox",
   "author": "Kare Hovik <kare@hovik.org>",
-  "dependencies": {
-    "npm": "^6.13.7"
-  }
+  "dependencies": {}
 }

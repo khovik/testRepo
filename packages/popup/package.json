@@ -8,7 +8,7 @@
     "build": "tsc --build tsconfig.json"
   },
   "dependencies": {
-    "npm": "^6.13.7"
+    "@khovik/textbox": "*"
   },
   "devDependencies": {
     "typescript": "^3.7.5"
