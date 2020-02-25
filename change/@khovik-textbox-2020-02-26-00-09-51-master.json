@@ -1,0 +1,9 @@
+{
+  "type": "minor",
+  "comment": "Removing log line.",
+  "packageName": "@khovik/textbox",
+  "email": "kareho@microsoft.com",
+  "commit": "20a443a01122c1dfc3469ad7768c12f48acd5981",
+  "dependentChangeType": "patch",
+  "date": "2020-02-25T23:09:51.503Z"
+}
