@@ -10,7 +10,7 @@
     "change": "beachball change",
     "bump": "beachball bump",
     "beachball:check": "beachball check --registry=https://npm.pkg.github.com",
-    "beachball:publish": "beachball publish --registry=https://npm.pkg.github.com"
+    "beachball:publish": "beachball publish --registry=https://npm.pkg.github.com --no-push"
   },
   "devDependencies": {
     "beachball": "^1.18.4",
