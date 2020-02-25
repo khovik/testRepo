@@ -1,9 +1,0 @@
-{
-  "type": "minor",
-  "comment": "Adding log line",
-  "packageName": "@khovik/textbox",
-  "email": "kareho@microsoft.com",
-  "commit": "982b2efd48f712b7116916fb21e1ae07d95356c1",
-  "dependentChangeType": "patch",
-  "date": "2020-02-25T22:48:28.507Z"
-}

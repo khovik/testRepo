@@ -2,7 +2,7 @@
   "name": "@khovik/textbox",
   "license": "UNLICENSED",
   "repository": "git+https://github.com/khovik/testRepo",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc --build tsconfig.json"
