@@ -1,0 +1,9 @@
+{
+  "type": "minor",
+  "comment": "Another one",
+  "packageName": "@khovik/popup",
+  "email": "kareho@microsoft.com",
+  "commit": "e5a03750c1481d5fb77ffa558aa591777ac061ef",
+  "dependentChangeType": "patch",
+  "date": "2020-04-01T13:01:24.829Z"
+}
