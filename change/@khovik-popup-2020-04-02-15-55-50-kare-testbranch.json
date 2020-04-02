@@ -1,0 +1,9 @@
+{
+  "type": "patch",
+  "comment": "Adding log line",
+  "packageName": "@khovik/popup",
+  "email": "kareho@microsoft.com",
+  "commit": "b87417e33bc879c895aeac6cb56aff3908a295c3",
+  "dependentChangeType": "patch",
+  "date": "2020-04-02T13:55:49.578Z"
+}
