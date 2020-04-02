@@ -1,7 +1,14 @@
 # Change Log - @khovik/textbox
 
-This log was last generated on Tue, 25 Feb 2020 22:51:02 GMT and should not be manually modified.
+This log was last generated on Wed, 01 Apr 2020 13:26:39 GMT and should not be manually modified.
 
+## 1.4.0
+Wed, 01 Apr 2020 13:26:39 GMT
+
+### Minor changes
+
+- Removing log line. (kareho@microsoft.com)
+- Adding log line (kareho@microsoft.com)
 ## 1.3.0
 Tue, 25 Feb 2020 22:51:02 GMT
 
