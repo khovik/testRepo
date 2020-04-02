@@ -2,6 +2,44 @@
   "name": "@khovik/popup",
   "entries": [
     {
+      "date": "Thu, 02 Apr 2020 13:55:59 GMT",
+      "tag": "@khovik/popup_v1.3.1",
+      "version": "1.3.1",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Adding log line",
+            "author": "kareho@microsoft.com",
+            "commit": "b87417e33bc879c895aeac6cb56aff3908a295c3"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Wed, 01 Apr 2020 13:26:39 GMT",
+      "tag": "@khovik/popup_v1.3.0",
+      "version": "1.3.0",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Updating files",
+            "author": "kareho@microsoft.com",
+            "commit": "1803d3761499930e25a5d2f983c09d67a2bc86bb"
+          },
+          {
+            "comment": "Adding line 4",
+            "author": "kareho@microsoft.com",
+            "commit": "3fe2cb48d8214015948af95241a2400328ff0387"
+          },
+          {
+            "comment": "Another one",
+            "author": "kareho@microsoft.com",
+            "commit": "e5a03750c1481d5fb77ffa558aa591777ac061ef"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 25 Feb 2020 22:46:12 GMT",
       "tag": "@khovik/popup_v1.2.0",
       "version": "1.2.0",

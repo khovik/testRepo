@@ -8,6 +8,7 @@
   "scripts": {
     "build": "tsc --build tsconfig.json",
     "change": "beachball change",
+    "status": "beachball status",
     "bump": "beachball bump",
     "beachball:check": "beachball check --registry=https://npm.pkg.github.com",
     "beachball:publish": "beachball publish --registry=https://npm.pkg.github.com --no-push"
