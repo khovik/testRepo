@@ -1,0 +1,19 @@
+{
+  "name": "@khovik/application",
+  "entries": [
+    {
+      "date": "Thu, 02 Apr 2020 14:16:44 GMT",
+      "tag": "@khovik/application_vnull",
+      "version": "1.0.0",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Added application",
+            "author": "kareho@microsoft.com",
+            "commit": "570bf5ccdef234b5db54791aba8ad3fac8d2c831"
+          }
+        ]
+      }
+    }
+  ]
+}
