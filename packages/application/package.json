@@ -1,0 +1,18 @@
+{
+  "name": "@khovik/application",
+  "license": "UNLICENSED",
+  "repository": "git+https://github.com/khovik/testRepo",
+  "version": "0.1",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc --build tsconfig.json"
+  },
+  "dependencies": {
+    "@khovik/textbox": "*"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "description": "Test repo for versions - application",
+  "author": "Kare Hovik <kare@hovik.org>"
+}
