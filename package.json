@@ -6,18 +6,23 @@
   "version": "1.0.1",
   "main": "src/index.ts",
   "scripts": {
-    "build": "tsc --build tsconfig.json",
+    "build": "lerna run build",
     "change": "beachball change",
     "status": "beachball status",
     "bump": "beachball bump",
+    "lerna": "lerna",
     "beachball:check": "beachball check --registry=https://npm.pkg.github.com",
     "beachball:publish": "beachball publish --registry=https://npm.pkg.github.com --no-push"
   },
   "devDependencies": {
     "beachball": "^1.18.4",
+    "lerna": "3.20.2",
     "typescript": "^3.7.5"
   },
   "description": "Test repo for versions",
   "author": "Kare Hovik <kare@hovik.org>",
-  "dependencies": {}
+  "dependencies": {},
+  "workspaces": [
+    "packages/*"
+  ]
 }

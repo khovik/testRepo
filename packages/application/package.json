@@ -8,7 +8,7 @@
     "build": "tsc --build tsconfig.json"
   },
   "dependencies": {
-    "@khovik/popup": "1.5.0"
+    "@khovik/popup": "*"
   },
   "devDependencies": {
     "typescript": "^3.7.5"
