@@ -1,17 +1,3 @@
 {
-    "compilerOptions": {
-        "module": "system",
-        "noImplicitAny": true,
-        "removeComments": true,
-        "preserveConstEnums": true,
-        "outFile": "dist/index.js",
-        "sourceMap": true
-    },
-    "include": [
-        "src/**/*"
-    ],
-    "exclude": [
-        "node_modules",
-        "**/*.spec.ts"
-    ]
+    "extends": "../../tsconfig.default.json"
 }

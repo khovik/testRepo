@@ -2,6 +2,20 @@
   "name": "@khovik/textbox",
   "entries": [
     {
+      "date": "Mon, 13 Apr 2020 10:23:49 GMT",
+      "tag": "@khovik/textbox_v1.7.0",
+      "version": "1.7.0",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Added line 9",
+            "author": "kareho@microsoft.com",
+            "commit": "2d28aa5501070010e1b83326fa0715e438c179de"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 02 Apr 2020 14:16:44 GMT",
       "tag": "@khovik/textbox_v1.5.0",
       "version": "1.5.0",

@@ -2,6 +2,20 @@
   "name": "@khovik/popup",
   "entries": [
     {
+      "date": "Mon, 13 Apr 2020 10:23:49 GMT",
+      "tag": "@khovik/popup_v1.4.0",
+      "version": "1.4.0",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Added popup 5",
+            "author": "kareho@microsoft.com",
+            "commit": "bb6473d51d91f73c8df9d1581873620203a8d680"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 02 Apr 2020 13:55:59 GMT",
       "tag": "@khovik/popup_v1.3.1",
       "version": "1.3.1",
