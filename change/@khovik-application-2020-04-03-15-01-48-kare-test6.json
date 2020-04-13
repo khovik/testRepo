@@ -1,9 +1,0 @@
-{
-  "type": "patch",
-  "comment": "Updated dependency",
-  "packageName": "@khovik/application",
-  "email": "kareho@microsoft.com",
-  "commit": "5965a880370548a5948c7ebf3b73253e02228bfd",
-  "dependentChangeType": "patch",
-  "date": "2020-04-03T13:01:48.697Z"
-}
