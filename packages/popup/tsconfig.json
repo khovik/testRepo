@@ -1,5 +1,9 @@
 {
     "extends": "../../tsconfig.default.json",
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./lib",
+    },
     "references": [
         { "path": "../textBox/tsconfig.json"}
     ]

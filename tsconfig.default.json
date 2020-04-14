@@ -1,18 +1,14 @@
 
 {
     "compilerOptions": {
-        "module": "system",
+        "module": "esnext",
         "noImplicitAny": true,
         "removeComments": true,
         "preserveConstEnums": true,
-        "outDir": "./lib",
         "sourceMap": true,
-        "target": "es2015",
-        "lib": ["es2015"],
-        "rootDir": "./src",
-        "composite": true
+        "target": "esnext",
+        "lib": ["dom", "es6"],
+        "composite": true,
+        "moduleResolution": "node",
     },
-    "include": [
-        "./src"
-    ]
 }
