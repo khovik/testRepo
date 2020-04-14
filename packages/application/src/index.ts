@@ -1,4 +1,4 @@
-import {popup} from "@khovik/popup";
+import {popup2} from "@khovik/popup";
 
-popup();
+popup2();
 console.log("application");

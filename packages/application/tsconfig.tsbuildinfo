@@ -114,11 +114,11 @@
         "signature": "0c9ea8c2028047f39a3f66752682604f543c08be8806258c3d95c93e75a43255"
       },
       "../popup/lib/index.d.ts": {
-        "version": "e473b9d9a50abf3719ee679e6a9d9c1c47224b613cbecbcbc7e296ce57a188e5",
-        "signature": "e473b9d9a50abf3719ee679e6a9d9c1c47224b613cbecbcbc7e296ce57a188e5"
+        "version": "aefc7cc8bd256be7ea14ab76e4cf9f8c71c028d9d493273c5ac2b648fe29cce1",
+        "signature": "aefc7cc8bd256be7ea14ab76e4cf9f8c71c028d9d493273c5ac2b648fe29cce1"
       },
       "./src/index.ts": {
-        "version": "e40c48f839f0362d5a9ff5794003bfe7e3864f37007089ded6bc4c6130a6e506",
+        "version": "a9d7f30d2102c326601086fa0b09f3691d2f5e62c1fc459dcb5288094e3681f3",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "../../node_modules/@types/events/index.d.ts": {
@@ -1074,6 +1074,12 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "../popup/lib/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "../../node_modules/@types/events/index.d.ts": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.2/fs.d.ts",
@@ -1456,12 +1462,6 @@
         "../../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../../node_modules/@types/parse-json/index.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../popup/lib/index.d.ts": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.2/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",

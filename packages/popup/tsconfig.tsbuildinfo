@@ -118,8 +118,8 @@
         "signature": "61efbfe6bc155117d1ffb307df69e8647aa5e62148ef686b20cc4c2df5d01e8d"
       },
       "./src/index.ts": {
-        "version": "91d0d15d4245600983a3300d406e70ff94a0f8afc191504c7e3273f2b80cebff",
-        "signature": "e473b9d9a50abf3719ee679e6a9d9c1c47224b613cbecbcbc7e296ce57a188e5"
+        "version": "a1a9b6a6855b64815e8a1fd55720fd5a3d4d840f8c4e16786486ea37eb6cf4b1",
+        "signature": "aefc7cc8bd256be7ea14ab76e4cf9f8c71c028d9d493273c5ac2b648fe29cce1"
       },
       "../../node_modules/@types/events/index.d.ts": {
         "version": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935",
@@ -1074,6 +1074,12 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "../textbox/lib/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "../../node_modules/@types/events/index.d.ts": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.2/fs.d.ts",
@@ -1460,12 +1466,6 @@
         "../../node_modules/@types/node/ts3.2/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../textbox/lib/index.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.2/util.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -1497,6 +1497,7 @@
       "../../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
       "../../node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "../../node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "../textbox/lib/index.d.ts",
       "../../node_modules/@types/events/index.d.ts",
       "../../node_modules/@types/node/globals.d.ts",
       "../../node_modules/@types/node/assert.d.ts",
@@ -1546,7 +1547,6 @@
       "../../node_modules/@types/minimatch/index.d.ts",
       "../../node_modules/@types/glob/index.d.ts",
       "../../node_modules/@types/parse-json/index.d.ts",
-      "../textbox/lib/index.d.ts",
       "./src/index.ts"
     ]
   },
