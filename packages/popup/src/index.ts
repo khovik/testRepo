@@ -1,6 +1,6 @@
 import { textbox } from "@khovik/textbox";
 
-export function popup(): void {
+export function popup2(): void {
     textbox();
     console.log("kake");
     console.log("kake2");

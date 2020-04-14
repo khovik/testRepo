@@ -1,0 +1,9 @@
+{
+  "type": "patch",
+  "comment": "Updated popup function name",
+  "packageName": "@khovik/application",
+  "email": "kareho@microsoft.com",
+  "commit": "cd737e28f2ad512695dbb87293d64f6299171f2b",
+  "dependentChangeType": "patch",
+  "date": "2020-04-14T13:30:35.371Z"
+}
