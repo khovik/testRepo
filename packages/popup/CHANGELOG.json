@@ -2,6 +2,20 @@
   "name": "@khovik/popup",
   "entries": [
     {
+      "date": "Thu, 25 Jun 2020 08:18:12 GMT",
+      "tag": "@khovik/popup_v2.0.0",
+      "version": "2.0.0",
+      "comments": {
+        "none": [
+          {
+            "comment": "Using star version",
+            "author": "arabisho@microsoft.com",
+            "commit": "4bae870bdd83934df4c4776ae8910ae26d0583fa"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 25 Jun 2020 08:14:45 GMT",
       "tag": "@khovik/popup_v2.0.0",
       "version": "2.0.0",

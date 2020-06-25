@@ -1,9 +1,0 @@
-{
-  "type": "none",
-  "comment": "Using star version",
-  "packageName": "@khovik/popup",
-  "email": "arabisho@microsoft.com",
-  "commit": "4bae870bdd83934df4c4776ae8910ae26d0583fa",
-  "dependentChangeType": "patch",
-  "date": "2020-06-25T08:17:56.129Z"
-}
