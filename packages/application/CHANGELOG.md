@@ -1,7 +1,13 @@
 # Change Log - @khovik/application
 
-This log was last generated on Mon, 13 Apr 2020 10:23:49 GMT and should not be manually modified.
+This log was last generated on Thu, 25 Jun 2020 08:14:45 GMT and should not be manually modified.
 
+## 1.0.2
+Thu, 25 Jun 2020 08:14:45 GMT
+
+### Patches
+
+- Updated popup function name (kareho@microsoft.com)
 ## 1.0.1
 Mon, 13 Apr 2020 10:23:49 GMT
 
