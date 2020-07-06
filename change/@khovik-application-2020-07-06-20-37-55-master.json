@@ -1,0 +1,9 @@
+{
+  "type": "none",
+  "comment": "Rempves a dep",
+  "packageName": "@khovik/application",
+  "email": "arabisho@microsoft.com",
+  "commit": "7e847770915e42abbd1d8342283ba6485424bf86",
+  "dependentChangeType": "patch",
+  "date": "2020-07-06T18:37:51.308Z"
+}
