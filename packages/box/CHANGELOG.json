@@ -2,6 +2,20 @@
   "name": "@khovik/box",
   "entries": [
     {
+      "date": "Mon, 06 Jul 2020 18:38:05 GMT",
+      "tag": "@khovik/box_v0.1.0",
+      "version": "0.1.0",
+      "comments": {
+        "none": [
+          {
+            "comment": "Rempves a dep",
+            "author": "arabisho@microsoft.com",
+            "commit": "7e847770915e42abbd1d8342283ba6485424bf86"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 06 Jul 2020 18:23:42 GMT",
       "tag": "@khovik/box_v0.1.0",
       "version": "0.1.0",

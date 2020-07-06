@@ -1,7 +1,13 @@
 # Change Log - @khovik/popup
 
-This log was last generated on Thu, 25 Jun 2020 08:14:45 GMT and should not be manually modified.
+This log was last generated on Mon, 06 Jul 2020 18:38:05 GMT and should not be manually modified.
 
+## 2.0.2
+Mon, 06 Jul 2020 18:38:05 GMT
+
+### Patches
+
+- Rempves a dep (arabisho@microsoft.com)
 ## 2.0.0
 Thu, 25 Jun 2020 08:14:45 GMT
 

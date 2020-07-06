@@ -2,6 +2,20 @@
   "name": "@khovik/application",
   "entries": [
     {
+      "date": "Mon, 06 Jul 2020 18:38:05 GMT",
+      "tag": "@khovik/application_v1.0.5",
+      "version": "1.0.5",
+      "comments": {
+        "none": [
+          {
+            "comment": "Rempves a dep",
+            "author": "arabisho@microsoft.com",
+            "commit": "7e847770915e42abbd1d8342283ba6485424bf86"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 25 Jun 2020 08:14:45 GMT",
       "tag": "@khovik/application_v1.0.2",
       "version": "1.0.2",

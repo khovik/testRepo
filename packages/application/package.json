@@ -2,13 +2,13 @@
   "name": "@khovik/application",
   "license": "UNLICENSED",
   "repository": "git+https://github.com/khovik/testRepo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc --build tsconfig.json"
   },
   "dependencies": {
-    "@khovik/popup": "2.0.1"
+    "@khovik/popup": "2.0.2"
   },
   "devDependencies": {
     "typescript": "^3.7.5"
