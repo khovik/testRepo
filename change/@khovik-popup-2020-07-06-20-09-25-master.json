@@ -1,0 +1,9 @@
+{
+  "type": "none",
+  "comment": "Adding a new dependency to popup",
+  "packageName": "@khovik/popup",
+  "email": "arabisho@microsoft.com",
+  "commit": "cca01e8927dae8dc1c1071a1e95ae17c1c176718",
+  "dependentChangeType": "patch",
+  "date": "2020-07-06T18:09:25.082Z"
+}
