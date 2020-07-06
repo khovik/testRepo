@@ -2,7 +2,7 @@
   "name": "@khovik/box",
   "license": "UNLICENSED",
   "repository": "git+https://github.com/khovik/testRepo",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc --build tsconfig.json"

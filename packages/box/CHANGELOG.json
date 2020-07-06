@@ -1,0 +1,19 @@
+{
+  "name": "@khovik/box",
+  "entries": [
+    {
+      "date": "Mon, 06 Jul 2020 18:23:42 GMT",
+      "tag": "@khovik/box_v0.1.0",
+      "version": "0.1.0",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Adds a new package",
+            "author": "arabisho@microsoft.com",
+            "commit": "63d4f92f58b13b5da2d78b729dbd6e81bd8b6256"
+          }
+        ]
+      }
+    }
+  ]
+}

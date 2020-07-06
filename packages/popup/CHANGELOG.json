@@ -2,6 +2,20 @@
   "name": "@khovik/popup",
   "entries": [
     {
+      "date": "Mon, 06 Jul 2020 18:23:42 GMT",
+      "tag": "@khovik/popup_v2.0.1",
+      "version": "2.0.1",
+      "comments": {
+        "none": [
+          {
+            "comment": "Adding a new dependency to popup",
+            "author": "arabisho@microsoft.com",
+            "commit": "cca01e8927dae8dc1c1071a1e95ae17c1c176718"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 25 Jun 2020 08:18:12 GMT",
       "tag": "@khovik/popup_v2.0.0",
       "version": "2.0.0",
