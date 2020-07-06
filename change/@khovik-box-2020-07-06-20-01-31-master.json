@@ -1,0 +1,9 @@
+{
+  "type": "minor",
+  "comment": "Adds a new package",
+  "packageName": "@khovik/box",
+  "email": "arabisho@microsoft.com",
+  "commit": "63d4f92f58b13b5da2d78b729dbd6e81bd8b6256",
+  "dependentChangeType": "patch",
+  "date": "2020-07-06T18:01:31.026Z"
+}
