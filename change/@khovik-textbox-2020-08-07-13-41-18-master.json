@@ -1,0 +1,9 @@
+{
+  "type": "patch",
+  "comment": "Making another test change",
+  "packageName": "@khovik/textbox",
+  "email": "arabisho@microsoft.com",
+  "commit": "0a81c661ffc22d399aad3210d1cc2271c0ce77ba",
+  "dependentChangeType": "patch",
+  "date": "2020-08-07T11:41:18.691Z"
+}
