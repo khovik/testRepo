@@ -1,0 +1,9 @@
+{
+  "type": "patch",
+  "comment": "Test change 2",
+  "packageName": "@khovik/application",
+  "email": "arabisho@microsoft.com",
+  "commit": "ca3984e5c27a51e270a2e0cdc11fd5232f641608",
+  "dependentChangeType": "patch",
+  "date": "2020-08-19T12:14:56.427Z"
+}
