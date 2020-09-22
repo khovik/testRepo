@@ -1,0 +1,9 @@
+{
+  "type": "patch",
+  "comment": "A change",
+  "packageName": "@khovik/textbox",
+  "email": "arabisho@microsoft.com",
+  "commit": "402b2375ec19a9235141ccddcedcf77326071699",
+  "dependentChangeType": "patch",
+  "date": "2020-09-22T11:30:17.227Z"
+}
