@@ -1,0 +1,7 @@
+{
+  "type": "prerelease",
+  "comment": "Some change",
+  "packageName": "@khovik/textbox",
+  "email": "arabisho@microsoft.com",
+  "dependentChangeType": "patch"
+}
