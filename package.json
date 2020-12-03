@@ -15,7 +15,7 @@
     "beachball:publish": "beachball publish --registry=https://npm.pkg.github.com --no-push"
   },
   "devDependencies": {
-    "beachball": "1.43.1",
+    "beachball": "1.45.0",
     "lerna": "3.20.2",
     "typescript": "^3.7.5"
   },

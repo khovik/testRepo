@@ -1162,10 +1162,10 @@ bcrypt-pbkdf@^1.0.0:
   dependencies:
     tweetnacl "^0.14.3"
 
-beachball@1.43.1:
-  version "1.43.1"
-  resolved "https://registry.yarnpkg.com/beachball/-/beachball-1.43.1.tgz#694e86cd0277aa1c7e4288a0f276c8b41d7f4d8b"
-  integrity sha512-TqC0fpHg2fnCMoz5W36cGo3ParO9hZaf2TNxclSe30Ztm4Hzkwc3SeEXe6UmHTXy3a6TL8hJdWp1sSa6FZHBUg==
+beachball@1.45.0:
+  version "1.45.0"
+  resolved "https://registry.yarnpkg.com/beachball/-/beachball-1.45.0.tgz#e7c1446c1a4fa0201f02580b96f25b97062e9626"
+  integrity sha512-Tm2fn5HjzxKtlfPAlRg3iiY37s5MsHZNSKNdRj+kdFO3WpU8RBOZf/M57L+dceFBCsU1VgWask8YskmFcJ/ldw==
   dependencies:
     cosmiconfig "^6.0.0"
     execa "^4.0.3"
@@ -1179,7 +1179,7 @@ beachball@1.43.1:
     semver "^6.1.1"
     toposort "^2.0.2"
     uuid "^8.3.1"
-    yargs-parser "^13.1.0"
+    yargs-parser "^20.2.4"
 
 before-after-hook@^2.0.0:
   version "2.1.0"
@@ -5135,14 +5135,6 @@ yargs-parser@^10.0.0:
   dependencies:
     camelcase "^4.1.0"
 
-yargs-parser@^13.1.0:
-  version "13.1.1"
-  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-13.1.1.tgz#d26058532aa06d365fe091f6a1fc06b2f7e5eca0"
-  integrity sha512-oVAVsHz6uFrg3XQheFII8ESO2ssAf9luWuAd6Wexsu4F3OtIW0o8IribPXYrD4WC24LWtPrJlGy87y5udK+dxQ==
-  dependencies:
-    camelcase "^5.0.0"
-    decamelize "^1.2.0"
-
 yargs-parser@^15.0.1:
   version "15.0.1"
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-15.0.1.tgz#54786af40b820dcb2fb8025b11b4d659d76323b3"
@@ -5150,6 +5142,11 @@ yargs-parser@^15.0.1:
   dependencies:
     camelcase "^5.0.0"
     decamelize "^1.2.0"
+
+yargs-parser@^20.2.4:
+  version "20.2.4"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-20.2.4.tgz#b42890f14566796f85ae8e3a25290d205f154a54"
+  integrity sha512-WOkpgNhPTlE73h4VFAFsOnomJVaovO8VqLDzy5saChRBFQFBoMYirowyW+Q9HB4HFF4Z7VZTiG3iSzJJA29yRA==
 
 yargs@^14.2.2:
   version "14.2.3"
